@@ -1,0 +1,89 @@
+{
+  "businessName": "Rudra Laser Art",
+  "tagline": "Cut • Mark • Create with Laser ⚡",
+  "businessType": "Laser Art & Wooden Customization Shop",
+  "description": "Professional laser cutting and engraving services specializing in wooden customization, metal marking, corporate gifts, and personalized nameplates.",
+  "contact": {
+    "phones": ["7567800813", "9998434388"],
+    "address": "6 Bhagat Estate, Behind Galaxy Cinema, Galaxy Cross Road, Naroda, Ahmedabad, India – 382330",
+    "instagram": "https://www.instagram.com/rudra_laser_art/",
+    "email": "info@rudralaser.com"
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Laser Cutting on Wood",
+      "description": "Precision laser cutting on various types of wood for custom designs, decorative items, and functional products.",
+      "icon": "🪵"
+    },
+    {
+      "id": 2,
+      "name": "Metal Marking",
+      "description": "Permanent and precise metal marking using advanced laser technology for industrial and personal applications.",
+      "icon": "⚙️"
+    },
+    {
+      "id": 3,
+      "name": "Corporate Gifts",
+      "description": "Customized corporate gifting solutions including branded items, awards, and personalized business gifts.",
+      "icon": "🎁"
+    },
+    {
+      "id": 4,
+      "name": "Custom Gift Design",
+      "description": "Personalized gift creation for special occasions including birthdays, anniversaries, and celebrations.",
+      "icon": "💝"
+    },
+    {
+      "id": 5,
+      "name": "Nameplate Creation",
+      "description": "Custom nameplates for homes, offices, and businesses with elegant designs and durable materials.",
+      "icon": "📛"
+    }
+  ],
+  "technology": {
+    "type": "CO2 Laser",
+    "description": "We use advanced CO2 laser technology that provides precision cutting and marking on various materials including wood, acrylic, leather, and metals.",
+    "benefits": [
+      "High precision and accuracy",
+      "Clean and smooth edges",
+      "Minimal material waste",
+      "Fast production time",
+      "Versatile material compatibility"
+    ]
+  },
+  "about": {
+    "mission": "To deliver exceptional laser art and customization services that exceed customer expectations through precision, creativity, and quality craftsmanship.",
+    "vision": "To become the leading laser art and customization service provider in Gujarat, known for innovation and customer satisfaction.",
+    "whyChooseUs": [
+      "Expert craftsmanship with years of experience",
+      "State-of-the-art CO2 laser technology",
+      "Quick turnaround time",
+      "Competitive pricing",
+      "100% customer satisfaction guarantee",
+      "Custom design support"
+    ]
+  },
+  "faq": [
+    {
+      "question": "What materials can you work with?",
+      "answer": "We work with wood, acrylic, leather, metal, and various other materials suitable for laser cutting and marking."
+    },
+    {
+      "question": "How long does it take to complete an order?",
+      "answer": "Typical orders are completed within 3-5 business days. Rush orders can be accommodated based on availability."
+    },
+    {
+      "question": "Do you provide custom designs?",
+      "answer": "Yes! We offer custom design services. You can share your ideas, and our team will create the perfect design for you."
+    },
+    {
+      "question": "What is the minimum order quantity?",
+      "answer": "We accept orders of any size, from single pieces to bulk corporate orders."
+    },
+    {
+      "question": "How can I place an order?",
+      "answer": "You can visit our shop, call us at 7567800813 or 9998434388, or use our online booking form on the website."
+    }
+  ]
+}
