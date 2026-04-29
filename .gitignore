@@ -6,6 +6,11 @@ node_modules
 build
 .env
 .DS_Store
+
+.env.example
+.env
+node_modules
+
 # Testing
 /coverage
 
